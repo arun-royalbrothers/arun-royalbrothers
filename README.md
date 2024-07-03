@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arun-arunisto
 - 👀 I’m interested in DSA, Web Development, Computer Vision, AI & ML
 - 🌱 I’m currently learning Computer Vision, AI & ML
-- 💞️ I’m working as a Senior Python Developer at Royal Brothers Bengaluru
+- 💞️ I’m working as a Senior Python Developer at Royal Brothers Bangalore
 - ⚡ Fun fact: Workaholic
 
 <!---
